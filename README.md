@@ -1,0 +1,2 @@
+学习来自youtube的Cherono的opengl教程
+实现代码复现与小补充（关于批处理部分，和guass算法）
